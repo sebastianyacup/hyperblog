@@ -1,14 +1,6 @@
 body
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    color: blue;
-=======
-=======
-    background: black;
->>>>>>> header
     color: black;
->>>>>>> cabecera
     text-align:  left;
     font-family: "Arial";
     font-size: 16px;
@@ -17,21 +9,12 @@ body
 }
 #cabecera
 {
-<<<<<<< HEAD
-    background: #37488b ;
-=======
     background: red;
->>>>>>> footer
     box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
-}
-#cabecera #logo
-{
-    width: 20px;
-    vertical-align: middle;
 }
 #cabecera #tagline
 {
@@ -53,10 +36,6 @@ body
 }
 #post
 {
-<<<<<<< HEAD
-    background: white;
-    padding: 1cm;
-=======
     padding: 1em;
 }
 #footer
@@ -65,5 +44,4 @@ body
     color: white;
     text-align: center;
     padding: 0.5em;
->>>>>>> footer
 }
