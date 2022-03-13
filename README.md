@@ -1,2 +1,2 @@
 # hyperblog
-para el curso de platzi aprendiendo
+Bienvenidos a mi repositorio donde subire todos los trabajos realizados. 
